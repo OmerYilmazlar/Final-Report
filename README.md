@@ -17,7 +17,7 @@ A real-time browser extension that detects phishing websites and spam emails usi
 2. Open Google Chrome and navigate to:
 
 
-3. Enable **Developer mode** (top right), then click **Load unpacked** and select the project folder.
+3. Enable **Developer mode** (top right), then click **Load unpacked** and select the "phishing_extension" folder.
 
 4. Open the extension from the toolbar and:
 - Click **Settings** to add your VirusTotal API key.
